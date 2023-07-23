@@ -4,3 +4,5 @@ some description!
 
 local verion
 
+## local dev
+1.open index.html on browser
